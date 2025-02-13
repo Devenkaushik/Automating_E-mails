@@ -1,0 +1,13 @@
+Subject: Opportunity at {company_name}
+
+Hi {first_name},
+
+I noticed {company_name} is hiring for {position} roles. 
+My experience in [YOUR FIELD] aligns well with your needs.
+
+View my resume: {resume_link} (Password: {resume_password})
+
+Best regards,
+{your_name}
+{your_phone}
+Unsubscribe: {unsubscribe_link}
